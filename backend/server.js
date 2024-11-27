@@ -1,19 +1,7 @@
-/**
- * @name Hotel Room Booking System
- * @author Md. Samiur Rahman (Mukul)
- * @description Hotel Room Booking and Management System Software ~ Developed By Md. Samiur Rahman (Mukul)
- * @copyright ©2023 ― Md. Samiur Rahman (Mukul). All rights reserved.
- * @version v0.0.1
- *
- */
 
 /*
- * Name: Hotel Room Booking System ~ Backed
+ * Name: Hotel Room Booking System ~ Backend
  * Description: Build an Hotel Room Booking System using node.js, express.js application from the scratch
- * Author: Md. Samiur Rahman (Mukul)
- * Last Modified: 26/02/2023
- * Version: v0.0.1
- *
  */
 
 // imports modules & dependencies
