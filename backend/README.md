@@ -1,10 +1,3 @@
-<!-- social media connecting shield -->
-
-[![Facebook][facebook-shield]][facebook-url]
-[![Instagram][instagram-shield]][instagram-url]
-[![Twitter][twitter-shield]][twitter-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Github][github-shield]][github-url]
 
 # Hotel Room Booking System (Backend)
 
@@ -93,6 +86,4 @@ jest --init // initialize jest for app testing
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [github-shield]: https://img.shields.io/badge/-Github-black.svg?style=flat-square&logo=github&color=555&logoColor=white
 
-<p align="center">
-  <strong> HAPPY PROGRAMMING & I LOVE DEVELOPING 💞 </strong>
-</p>
+
